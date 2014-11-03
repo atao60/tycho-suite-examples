@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Popsuite-tycho-domain-ut
+Bundle-SymbolicName: popsuite-tycho-domain-ut
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: popsuite-tycho-domain;bundle-version="0.0.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.junit;bundle-version="4.11.0",
+ org.fest.assert.core;bundle-version="2.0.0",
+ org.assertj.core;bundle-version="1.7.0"
