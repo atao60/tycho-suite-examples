@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>popsuite-tycho</groupId>
-		<artifactId>popsuite-tycho-parent</artifactId>
+		<groupId>tycho-suite</groupId>
+		<artifactId>tycho-suite1-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../parent</relativePath>
 	</parent>
-	<artifactId>popsuite-tycho-domain-ut</artifactId>
+	<artifactId>tycho-suite1-domain-ut</artifactId>
 	<packaging>eclipse-test-plugin</packaging>
 
 </project>
